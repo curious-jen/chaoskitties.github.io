@@ -1,4 +1,4 @@
-"homepage": "https://github.com/curious-jen/chaoskitties.github.io",
+"homepage": "www.chaoskitties.com",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
