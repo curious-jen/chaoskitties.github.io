@@ -2,7 +2,6 @@
 theme: jekyll-theme-minimal
 title: ChaosKitties Automation Testing
 description: >- # The description
-  Welcome to the Chaos Kitties Automation website!
-baseurl: "https://github.com/curious-jen/chaoskitties.github.io" # Adjust if your site is in a subdirectory
+  Welcome to the Chaos Kitties Automation website! 
 author: Curious Jen
 avatar: "/assets/img/avatar-icon.png"
