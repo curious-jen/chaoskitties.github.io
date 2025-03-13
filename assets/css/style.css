@@ -1,13 +1,22 @@
-body {
-    font-family: sans-serif;
-    margin: 0;
-    padding: 0;
-}
-
 header {
     background-color: #333;
     color: #fff;
     padding: 1rem;
+    display: flex; /* allows easy horizontal alignment */
+    align-items: center; /* vertically center the items in the header */
+}
+
+.header-avatar {
+    width: 50px; /* Adjust size as needed */
+    height: auto;
+    border-radius: 50%; /* Make it a circle */
+    margin-right: 10px; /* Add spacing between the image and the title */
+}
+
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
