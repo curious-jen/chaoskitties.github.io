@@ -1,26 +1,8 @@
-###########################################################
-### Welcome to ChaosKitties Automation Testing!
-###########################################################
+
 theme: jekyll-theme-minimal
-############################
-# --- details --- #
-############################
-
-# Name of website
 title: ChaosKitties Automation Testing
-
-# Your name to show in the footer
+description: >- # The description
+  Welcome to the Chaos Kitties Automation website!
+baseurl: "" # Adjust if your site is in a subdirectory
 author: Curious Jen
-
-###############################################
-# --- List of links in the navigation bar --- #
-###############################################
-navbar-links:
-  About: TBD
-  Resources:
-    - Something else
-
-################
-# --- Logo --- #
-################
 avatar: "/assets/img/avatar-icon.png"
