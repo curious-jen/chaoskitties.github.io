@@ -1,3 +1,26 @@
+###########################################################
+### Welcome to ChaosKitties Automation Testing!
+###########################################################
 theme: jekyll-theme-minimal
-title: ChaosKitties homepage
-description: Bookmark this to keep an eye on my project updates!
+############################
+# --- details --- #
+############################
+
+# Name of website
+title: ChaosKitties Automation Testing
+
+# Your name to show in the footer
+author: Curious Jen
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+navbar-links:
+  About: TBD
+  Resources:
+    - Something else
+
+################
+# --- Logo --- #
+################
+avatar: "/assets/img/avatar-icon.png"
