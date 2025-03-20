@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import logo from './assets/cklogo.jpg';
+import logo from './assets/cklogo.jpeg';
 
 function App() {
   return (
